@@ -14,6 +14,7 @@ public class S2_Ejercicio1_Alumno {
         this.ef=ef;
     }
 
+
     public String getFoto() {
         return foto;
     }

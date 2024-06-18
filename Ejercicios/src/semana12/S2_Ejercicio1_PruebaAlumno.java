@@ -10,4 +10,5 @@ public class S2_Ejercicio1_PruebaAlumno {
         System.out.print("\nPC3: "+alumno1.getPc3());
         System.out.print("\nEF: "+alumno1.getEf());
     }
+
 }
