@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9774e4b-5fcf-40b6-a8b5-fbd3e7c2a1ac" name="Changes" comment="Resolución de la semana 12, sesión 2, ejercicio 2" />
+    <list default="true" id="e9774e4b-5fcf-40b6-a8b5-fbd3e7c2a1ac" name="Changes" comment="Resolución de la semana 12, sesión 1">
+      <change afterPath="$PROJECT_DIR$/Ejercicios/src/semana13/S1_Ejercicio1_Tabla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/src/semana13/S1_Ejercicio1_TablaEleminar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +33,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ZER0-GIT/UTP_TallerProgramacion.git&quot;,
-    &quot;accountId&quot;: &quot;9c11b487-a4c5-43a0-8321-27de8b55d962&quot;
+    &quot;accountId&quot;: &quot;fe45bd9c-8e33-40e2-934e-a8f642bd4b39&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -44,20 +48,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Cancion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.S1_Ejercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.S2_Ejercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.S2_Ejercicio1_PruebaAlumno.executor&quot;: &quot;Run&quot;,
-    &quot;Application.S2_Ejercicio2_ReporteAlumno.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.S1_Ejercicio1_Tabla.executor": "Run",
+    "Application.S1_Ejercicio2.executor": "Run",
+    "Application.S2_Ejercicio1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "proofread"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,30 +69,6 @@
       <option name="presentableId" value="Default" />
       <updated>1717307897367</updated>
     </task>
-    <task id="LOCAL-00001" summary="Resolución de la semana 12, sesión 2, ejercicio 2">
-      <option name="closed" value="true" />
-      <created>1718711509889</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1718711509889</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Resolución de la semana 12, sesión 2, ejercicio 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolución de la semana 12, sesión 2, ejercicio 2" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Ejercicios/src/semana11/S2_Ejercicio1.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
