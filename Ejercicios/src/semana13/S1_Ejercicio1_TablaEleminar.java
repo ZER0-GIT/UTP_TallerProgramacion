@@ -15,7 +15,7 @@ public class S1_Ejercicio1_TablaEleminar {
                 ocurrencia=true;
             }
             if (ocurrencia){
-                this.tabla[i]=(i<this.tabla.length-1)?this.tabla[i+1]:0;
+                this.tabla[i] = (i < (this.tabla.length - 1)) ? this.tabla[i + 1] : 0;
             }
         }
 

@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9774e4b-5fcf-40b6-a8b5-fbd3e7c2a1ac" name="Changes" comment="Resolución de la semana 12, sesión 1" />
+    <list default="true" id="e9774e4b-5fcf-40b6-a8b5-fbd3e7c2a1ac" name="Changes" comment="Resolución de la semana 12, sesión 2, ejercicio 2">
+      <change afterPath="$PROJECT_DIR$/Ejercicios/src/semana13/S2_Ejercicio2_PruebaCancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/src/semana12/S1_Ejercicio1_Cancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/semana12/S1_Ejercicio1_Cancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/src/semana13/S1_Ejercicio1_TablaEleminar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/semana13/S1_Ejercicio1_TablaEleminar.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +34,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ZER0-GIT/UTP_TallerProgramacion.git&quot;,
-    &quot;accountId&quot;: &quot;fe45bd9c-8e33-40e2-934e-a8f642bd4b39&quot;
+    &quot;accountId&quot;: &quot;9c11b487-a4c5-43a0-8321-27de8b55d962&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -46,9 +51,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Cancion.executor": "Run",
     "Application.S1_Ejercicio1_Tabla.executor": "Run",
     "Application.S1_Ejercicio2.executor": "Run",
     "Application.S2_Ejercicio1.executor": "Run",
+    "Application.S2_Ejercicio1_PruebaAlumno.executor": "Run",
+    "Application.S2_Ejercicio2_PruebaCancion.executor": "Run",
+    "Application.S2_Ejercicio2_ReporteAlumno.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -65,19 +74,30 @@
       <option name="presentableId" value="Default" />
       <updated>1717307897367</updated>
     </task>
-    <task id="LOCAL-00001" summary="Resolución de la semana 12, sesión 1">
+    <task id="LOCAL-00001" summary="Resolución de la semana 12, sesión 2, ejercicio 2">
       <option name="closed" value="true" />
-      <created>1719019812647</created>
+      <created>1718711509889</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1719019812647</updated>
+      <updated>1718711509889</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Resolución de la semana 12, sesión 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolución de la semana 12, sesión 1" />
+    <MESSAGE value="Resolución de la semana 12, sesión 2, ejercicio 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolución de la semana 12, sesión 2, ejercicio 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Ejercicios/src/semana11/S2_Ejercicio1.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
