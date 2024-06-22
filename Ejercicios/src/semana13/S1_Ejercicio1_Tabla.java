@@ -11,6 +11,7 @@ public class S1_Ejercicio1_Tabla {
             System.out.println("Ingrese el valor de la celda "+tabla[i]);
             tabla[i]= leer.nextInt();
         }
+
         System.out.println("Ingresa el valor que desea borrar");
         int valor = leer.nextInt();
         eliminarValor.eliminarValor(valor, tabla);

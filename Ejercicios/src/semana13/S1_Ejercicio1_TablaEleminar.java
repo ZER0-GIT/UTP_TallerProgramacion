@@ -18,6 +18,7 @@ public class S1_Ejercicio1_TablaEleminar {
                 this.tabla[i]=(i<this.tabla.length-1)?this.tabla[i+1]:0;
             }
         }
+
         System.out.println("DESPUES: "+Arrays.toString(this.tabla));
     }
 }
