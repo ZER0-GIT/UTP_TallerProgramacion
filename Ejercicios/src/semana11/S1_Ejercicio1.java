@@ -23,7 +23,7 @@ public class S1_Ejercicio1 {
             prom[f]=suma[f]/ numR.length;
         }
         //Imprimir los arreglos como en el ejercicio propuesto
-        System.out.printf("ARREGLO%-18s-   SUMA   - PROMEDIO\n"," ");
+        System.out.printf("ARREGLO%-18s-   SUMA  - PROMEDIO\n"," ");
         for (int f = 0; f < numR.length ; f++) {
             for (int c = 0; c < numR[0].length; c++) {
                 System.out.printf("[%-6.2f]",numR[f][c]);
